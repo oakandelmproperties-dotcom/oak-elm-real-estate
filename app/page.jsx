@@ -7,7 +7,7 @@ const properties = [
   {
     id: "ZEV-5403",
     title: "5403 Zev Way · 3 Bed · 2 Bath",
-    price: 1750,
+    price: RENTED,
     city: "Louisville, KY",
     image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1600&auto=format&fit=crop",
     link: "#rently-link-5403",
@@ -16,7 +16,7 @@ const properties = [
   {
     id: "RNR-6502",
     title: "6502 Rod N Reel Ct · 3 Bed · 2 Bath",
-    price: 1550,
+    price: RENTED,
     city: "Louisville, KY",
     image: "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=1600&auto=format&fit=crop",
     link: "#rently-link-6502",
@@ -25,7 +25,7 @@ const properties = [
   {
     id: "JLC-9008",
     title: "9008 Jessica Leigh Ct · 3 Bed · 2 Bath",
-    price: 1750,
+    price: RENTED,
     city: "Louisville, KY",
     image: "https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=1600&auto=format&fit=crop",
     link: "#rently-link-9008",
@@ -34,7 +34,7 @@ const properties = [
   {
     id: "BRN-4008",
     title: "4008 Brownlee Rd · 4 Bed · 3 Bath",
-    price: 2500,
+    price: RENTED,
     city: "Louisville, KY",
     image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1600&auto=format&fit=crop",
     link: "#rently-link-4008",
